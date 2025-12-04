@@ -36,6 +36,7 @@ The project demonstrates file parsing, data cleaning, SQL database creation, pan
 Run this command:
 ```bash 
 python build_dp.py
+```
 
 # How it works:
 file_loader.py searches the abc_books directory and retrieves all ABC files along with their book number.

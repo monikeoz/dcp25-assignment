@@ -9,13 +9,13 @@ Student Number: C24300243
 # Screenshots
 
 ### 1. GUI Interface
-![GUI Screenshot](images/Screenshot 2025-12-04 164753.png)
+![GUI Screenshot](images/guiinterface.png)
 
 ### 2. Tune Details View
-![Tune Details](images/Screenshot 2025-12-04 164845.png)
+![Tune Details](images/tunedetailview.png)
 
 ### 3. Terminal Output (Database Build)
-![Build Output](images/Screenshot 2025-12-04 164825.png)
+![Build Output](images/terminal.png)
 
 # Description of the project
 This project is a Python application:
